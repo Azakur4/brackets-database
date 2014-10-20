@@ -1,0 +1,16 @@
+<table class="db-table table table-striped row-highlight">
+    <thead>
+        {{#fields}}
+            <th>{{name}}</th>
+        {{/fields}}
+    </thead>
+    <tbody>
+        {{#rows}}
+            <tr>
+                {{#.}}
+                    <td>{{.}}</td>
+                {{/.}}
+            </tr>
+        {{/rows}}
+    </tbody>
+</table>
