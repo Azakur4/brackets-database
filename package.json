@@ -1,0 +1,28 @@
+{
+    "name": "azakur4.brackets-database",
+
+    "title": "Brackets Database",
+    "description": "A database client",
+    "keywords": ["Database", "mysql"],
+    "version": "0.0.1",
+
+    "license": "MIT",
+    "homepage": "https://github.com/Azakur4/brackets-database",
+    "author": {
+        "name": "Jimmy Brian Anamaria Torres",
+        "email": "captasfire@hotmail.com.com",
+        "url": "https://github.com/Azakur4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Azakur4/brackets-database.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Azakur4/brackets-database/issues",
+        "email": "captasfire@hotmail.com.com"
+    },
+
+    "engines": {
+        "brackets": ">=0.44.0"
+    }
+}
