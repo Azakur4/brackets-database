@@ -1,5 +1,8 @@
-brackets-simple-node
+brackets-database
 ====================
 
-Simple example of how to use node from a Brackets extension. For more info, see
-[Brackets Node Process: Overview for Developers](https://github.com/adobe/brackets/wiki/Brackets-Node-Process:-Overview-for-Developers).
+The focus of this extension is create a simple client to connect different databases like mysql, mssql and oracle.
+
+Actually this is working only for mysql and the idea is that u can make sql querys inside of brackets connecting to a database.
+
+this is a first version the layout not is so good but im focusing in the functionality first.
